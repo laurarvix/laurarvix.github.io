@@ -19,13 +19,22 @@ body {
     a { 
       border-radius: 4px;
       font-size: 1.2em;
-      color: white;
       padding: 6px;
       padding-bottom: 1px;
-      margin: 6px
+      margin: 6px;
+      color: #FFFFFF;
     }
     a:hover {
       background-color: #FFA0AB;
+    }
+    span {
+      u {
+        font-size: 1.2em;
+        border-radius: 4px;
+        padding: 6px;
+        padding-bottom: 1px;
+        margin: 6px;
+      }
     }
   }
   h1,
