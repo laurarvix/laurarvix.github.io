@@ -1,20 +1,20 @@
 body {
-    padding: 2em;
-    padding-top: 0.5em;
-    border-width: 5px;
-    border-color: #FFC0CB;
-    border-style: solid;
-    border-radius: 4px;
-	  background: #FA8072;
-	  font-family:Trebuchet MS,Helvetica,sans-serif;
-    color: #FFFFFF;
-	a {
-		color: #87CEEB;
+  padding: 2em;
+  padding-top: 0.5em;
+  border-width: 5px;
+  border-color: #FFC0CB;
+  border-style: solid;
+  border-radius: 4px;
+  background: #FA8072;
+  font-family:Trebuchet MS,Helvetica,sans-serif;
+  color: #FFFFFF;
+  a {
+    color: #87CEEB;
     text-decoration: none;
-    }
-	p {
-		font-size: 1em;
-	}
+  }
+  p {
+    font-size: 1em;
+  }
   p.navbar {
     a { 
       border-radius: 4px;
@@ -28,9 +28,14 @@ body {
       background-color: #FFA0AB;
     }
   }
-	h2 {
-		font-family:Verdana,Geneva,sans-serif;
-	}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family:Verdana,Geneva,sans-serif;
+  }
   hr {
     border: 1px solid #FFFFFF;
   }
